@@ -46,64 +46,64 @@ pip install -r requirements.txt
 
 
 ## Key Components
-1. CarDataProcessor
+**1. CarDataProcessor**
 
-Handles CSV file parsing
-Uploads car data to ChromaDB
-Manages data extraction and normalization
+- Handles CSV file parsing
+- Uploads car data to ChromaDB
+- Manages data extraction and normalization
 
-2. CarComparisonTool
+**2. CarComparisonTool**
 
-Retrieves car specifications
-Generates comparative reports
-Supports multi-dimensional comparisons
+- Retrieves car specifications
+- Generates comparative reports
+- Supports multi-dimensional comparisons
 
-3. CarComparisonLLMAgent
+**3. CarComparisonLLMAgent**
 
-Natural language query processing
-AI-powered analysis generation
-Intelligent feature categorization
+- Natural language query processing
+- AI-powered analysis generation
+- Intelligent feature categorization
 
 ## AI Agent Capabilities
 
-Query Understanding: Parses natural language into structured queries
-Contextual Analysis: Extracts relevant comparison criteria
-Intelligent Categorization: Classifies features into tech, safety, and comfort domains
-Adaptive Reporting: Generates human-readable comparative insights
+- **Query Understanding**: Parses natural language into structured queries
+- **Contextual Analysis**: Extracts relevant comparison criteria
+- **Intelligent Categorization**: Classifies features into tech, safety, and comfort domains
+- **Adaptive Reporting**: Generates human-readable comparative insights
 
 ## Performance Considerations
 
-Latency depends on API response times
-Accuracy is contingent on input data quality
-Scales well with increasing car model datasets
+- Latency depends on API response times
+- Accuracy is contingent on input data quality
+- Scales well with increasing car model datasets
 
 ## Limitations
 
-Requires structured input data
-Limited to available car specifications
-Dependent on API access and rate limits
-May not capture subjective user experiences
+- Requires structured input data
+- Limited to available car specifications
+- Dependent on API access and rate limits
+- May not capture subjective user experiences
 
 ## Contributing
 
-Fork the repository
-Create your feature branch (git checkout -b feature/AmazingFeature)
-Commit your changes (git commit -m 'Add some AmazingFeature')
-Push to the branch (git push origin feature/AmazingFeature)
-Open a Pull Request
+1. Fork the repository
+2. Create your feature branch (git checkout -b feature/AmazingFeature)
+3. Commit your changes (git commit -m 'Add some AmazingFeature')
+4. Push to the branch (git push origin feature/AmazingFeature)
+5. Open a Pull Request
 
 ## Future Roadmap
 
- Expand car model database
- Implement real-time price tracking
- Add user preference learning
- Develop more advanced natural language understanding
+- Expand car model database
+- Implement real-time price tracking
+- Add user preference learning
+- Develop more advanced natural language understanding
 
 ## Acknowledgements
 
-Anthropic for Claude AI
-ChromaDB for vector database
-Open-source community for continuous inspiration
+- Anthropic for Claude AI
+- ChromaDB for vector database
+- Open-source community for continuous inspiration
 
 
 
