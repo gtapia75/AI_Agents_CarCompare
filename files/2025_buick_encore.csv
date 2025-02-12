@@ -1,0 +1,385 @@
+﻿####,,
+Spec,Value,
+Length,171.2,
+Width,71.4,
+Height,64.1,
+Wheelbase,N/A,
+Seating,5,
+Cargo Capacity,23.5/50.2,
+Front Headroom,39.7,
+Rear Headroom,38.1,
+Front Legroom,40.9,
+Rear Legroom,36,
+Front Shoulder Room,55.4,
+Rear Shoulder Room,53.6,
+Curb Weight,3023,
+Engine Name,"1.2L inline 3-cylinder, Optional 1.3L Ecotec 3",
+Trim,Preferred FWD,
+Horsepower,"137@5000, Optional 5600",
+Body Style,SUV,
+Fuel,Unleaded,
+Transmission,Continuously Variable Transmission,
+Class,N/A,
+Standard MPG,N/A,
+Drivetrain,FWD,
+Cylinder Configuration,in-line,
+Driving Range,290,
+Engine Size,N/A,
+Ground Clearance,7.5,
+GVWR,4211,
+Number Of Cylinders,3,
+Payload Capacity,1188,
+Std Mpg With Units,N/A,
+Torque,"162, Optional 174@2500, Optional 1600",
+Towing Capacity,1000,
+Transmission Type,Automatic,
+####,,
+features,Availability,MSRP
+Electronic parking brake,Standard,0
+Automatic trunk/hatch closing,Optional,0
+Remote trunk/hatch release,Not Available,0
+Cruise control,Standard,0
+Adaptive cruise control,"No, Optional Yes",0
+Air conditioning,Standard,0
+Automatic recirculation,Not Available,0
+Climate control type,Semi-auto,0
+Air filter / carbon filter,Standard / Not Available,0
+Rear climate control,Not Available,0
+Neck warmer,Not Available,0
+Coming home device,Not Available,0
+Garage door opener,Not Available,0
+Memorized adjustment,Not Available,0
+Smart key,"Teen Driver , Standard",0
+External temperature display,Standard,0
+Compass display,Standard,0
+Trip computer,Standard,0
+Wiper de-icer,Not Available,0
+Service interval indicator,Not Available,0
+Power door locks,Standard,0
+Automatic door locking,Yes,0
+Power adjustable front seats (driver / passenger),Optional / Not Available,0
+Number of front seat power adjustments (driver / passenger),Optional 5 / -,0
+Heated front seats (driver / passenger),Optional / Optional,0
+Ventilated front seats (driver / passenger),Not Available / Not Available,0
+Climate controlled front seats (driver / passenger),Not Available / Not Available,0
+Massaging front seats (driver / passenger),Not Available / Not Available,0
+Active bolstering front seats (driver / passenger),Not Available / Not Available,0
+Front seat height adjustment (driver / passenger),"Manual / -, Optional Electric / -",0
+Front seat lumbar adjustment (driver / passenger),Optional Electric / -,0
+Front seat reclining adjustment (driver / passenger),"Manual / Manual, Optional Electric / -",0
+Front seat sliding adjustment (driver / passenger),"Manual / Manual, Optional Electric / -",0
+Front seat tilt adjustment (driver / passenger),Optional Electric / -,0
+Power adjustable rear seats,Not Available,0
+Number of rear seat power adjustments,0,0
+Heated rear seats,Not Available,0
+Ventilated rear seats,Not Available,0
+Climate controlled rear seats,Not Available,0
+Massaging rear seats,Not Available,0
+Folding rear seat type,60/40 split,0
+Power folding rear seats,Not Available,0
+Rear seat ski hatch,Not Available,0
+Removable rear seats,Not Available,0
+Power adjustable steering wheel,Standard,0
+Cargo area light,Standard,0
+Steering wheel adjustment (height / telescopic / easy entry),Standard / Standard / Not Available,0
+Heated steering wheel,Optional,0
+Multi-function steering wheel,Standard,0
+Auto-dimming rear view mirror,Not Available,0
+Auto-dimming door mirrors (driver / passenger),Not Available / Not Available,0
+Power adjustable door mirrors (driver / passenger),Standard / Standard,0
+Heated door mirrors (driver / passenger),Standard / Standard,0
+Door mirror tilt for reversing (driver / passenger),Not Installed / Not Installed,0
+Heated door panels (front / rear),Not Available / Not Available,0
+Heated windshield,Not Available,0
+Panoramic windshield,Not Available,0
+Intermittent windshield wiper type,Variable,0
+Rain sensing windshield wipers,Not Available,0
+Rear window wiper (constant / intermittent),Not Available / Standard,0
+Rear Window Sunshade,Not Available,0
+Power windows (front / rear),Standard / Standard,0
+One-touch power windows (driver / passenger / rear),Standard / Standard / Standard,0
+Power sliding rear window,Not Available,0
+Dusk sensing headlights,Standard,0
+Automatic high beams,Standard,0
+Fragrance diffuser,Not Available,0
+Remote connect lock/unlock,Yes,0
+Remote connect speed alert,No,0
+Remote connect send destination to car,Yes,0
+Remote connect location sharing,No,0
+Remote connect geo fencing,Yes,0
+Remote connect vehicle start,Yes,0
+Remote connect theft alert,Yes,0
+Remote connect HVAC control,Not Available,0
+Remote engine start,Standard,0
+power door locks operation,Card Key,0
+Headroom (in) (front / rear),39.7 / 38.1,0
+Leg room (in) (front / rear),40.9 / 36.0,0
+Hip room (in) (front / rear),51.9 / 50.7,0
+Shoulder room (in) (front / rear),55.4 / 53.6,0
+Overall length (in),171.2,0
+Overall width (in),71.4,0
+Overall height (in),64.1,0
+Wheelbase (in),102,0
+Turning circle (ft),36.9,0
+Cargo capacity (cuft),23.5,0
+Cargo capacity rear seat down (cuft),50.2,0
+Ground clearance (in),7.5,0
+Curb weight (lbs),3023,0
+Gross vehicle weight rating (lbs),4211,0
+Payload (lbs),1188,0
+Maximum Towing Capacity (lbs),1000,0
+Engine,"1.2L inline 3-cylinder, Optional 1.3L Ecotec 3",0
+Displacement (cc),"1199, Optional 1300",0
+Valves per cylinder,4,0
+Cylinder shutdown,Not Available,0
+Compressor,"Turbo, Standard",0
+Horsepower,"137, Optional 155",0
+RPM for horsepower,"5000, Optional 5600",0
+Torque (ft lbs),"162, Optional 174",0
+RPM for torque,"2500, Optional 1600",0
+Fuel type,Unleaded,0
+Other fuel type,E85,0
+Start/stop function,Standard,0
+CO2 Emissions,4.7 tons/year,0
+Total number of valves,12,0
+Front wheels,"18x7.5\"" Alloy",0
+Front tires (standard),225/55/SR18 All Seasons,0
+Rear wheels,"18x7.5\"" Alloy",0
+Rear tires (standard),225/55/SR18 All Seasons,0
+Spare/Temporary Tire,Standard,0
+Disc brakes,4,0
+Ceramic brakes,Not Available,0
+Regenerative brakes,Not Available,0
+Chrome molding,Standard,0
+Mud flaps (front / rear),Optional / Optional,0
+Trailer towing prep,Standard,0
+Trailer hitch,Optional,0
+Rear spoiler,Not Available,0
+Roof spoiler,Not Available,0
+Side moulding,Not Available,0
+Wheel moulding,Not Available,0
+Front bumper,Painted,0
+Rear bumper,Painted,0
+Front door type (driver / passenger),Front Hinged / Front Hinged,0
+Rear door type (driver / passenger),Front Hinged / Front Hinged,0
+Hands free rear doors (rear driver / rear passenger),No / No,0
+Cargo door type,Liftgate,0
+Headlights,LED IntelliBeam®,0
+Front fog lights,Standard,0
+Puddle Lights,Not Available,0
+Rear fog lights,Not Available,0
+Side mirror indicator lights (driver / passenger),Not Available / Not Available,0
+Cornering lights,Not Available,0
+Roof rails,Optional,0
+Underbody protection,Not Available,0
+Privacy glass,Not Available,0
+Tank capacity (gal),13.2,0
+City Fuel Economy (MPG),30,0
+Highway Fuel Economy (MPG),31,0
+Estimated Combined Fuel Economy (mpg),30,0
+Estimated Vehicle range (mi),290,0
+Plug-in,Not Available,0
+High power charger,Not Available,0
+Navigation system,Standard,0
+Navigation display,8.00 in. Color Satellite View,0
+Navigation includes traffic info,Standard,0
+Navigation data source,Internet,0
+Navigation via mobile phone,Not Available,0
+Built-in apps,Standard,0
+Apps control,Standard,0
+Wireless charging pad,Optional,0
+Bluetooth phone connection,Not Available,0
+Bluetooth music streaming,Not Available,0
+Telematics,Standard,0
+Telematics system,OnStar,0
+Telematics cost,399.90 / year (96 months included),0
+Front entertainment display,Not Available,0
+Rear entertainment display (middle / back of front seats),Not Available / Not Available,0
+Third row entertainment display (middle / back of rear seats),Not Available / Not Available,0
+Internet connection,Not Available,0
+Speech text messaging,Standard,0
+Wifi network,Standard,0
+Speakers,6,0
+Subwoofer,Not Available,0
+Surround sound,Not Available,0
+In-dash DVD player,Not Available,0
+In-dash single CD player,Not Available,0
+CD changer,Not Available,0
+Digital media card reader,Not Available,0
+Digital radio,Standard,0
+Internet radio,Not Available,0
+Satellite radio,Standard,0
+Wireless headphones,Not Available,0
+AUX connection (front / rear),Standard / Not Available,0
+USB connection (front / rear),Standard / Not Available,0
+iPod/iPhone connection (front / rear),Not Available / Not Available,0
+Game console connection (front / rear),Not Available / Not Available,0
+HDMI connection (front / rear),Not Available / Not Available,0
+Remote audio control,Steering Wheel Mounted,0
+Voice activation,Standard,0
+Multi-function display screen,Not Available,0
+Touch screen,Standard,0
+Android Auto compatible,Standard,0
+Apple CarPlay compatible,Standard,0
+MirrorLink mobile integration,Not Available,0
+Symbian Belle mobile integration,Not Available,0
+Seating capacity,5,0
+Seating configuration,2+3,0
+Seat main upholstery,Cloth,0
+Seat additional upholstery,Synthetic Leather,0
+Steering wheel trim,Alloy & Leather,0
+Door trim,Synthetic Leather,0
+Dashboard trim,Synthetic Leather,0
+Center console trim,Color High Gloss,0
+Front driver seat type,Bucket,0
+Front passenger seat type,Bucket,0
+Rear seat type,Bench,0
+Third row seats,Not Available,0
+Booster seats (rear / third row),Not Available / Not Available,0
+Dash console storage,Standard,0
+Center console storage,Standard,0
+Overhead console storage,Not Available,0
+Front sunroof,Not Available,0
+Rear sunroof,Not Available,0
+Front to rear sunroof,Not Available,0
+Glass roof,Not Available,0
+Cupholders (front / rear),Standard / Standard,0
+Armrest (front / rear),Standard / Optional,0
+Reading lights (front / rear),Standard / Not Available,0
+12V power outlet (front / rear / cargo),Standard / Not Available / Not Available,0
+Hands free trunk release,Not Available,0
+Ashtray (front / rear),Not Available / Not Available,0
+Lighter (front / rear),Not Available / Not Available,0
+Vanity mirror (driver / passenger),Standard / Standard,0
+Passenger grab handles,Not Available,0
+Cargo area cover,Standard,0
+Panoramic roof,Not Available,0
+MSRP,25940,0
+Invoice,25006.16,0
+Delivery,1295,0
+Stability control,Standard StabiliTrak,0
+Trailer hitch assist,Not Available,0
+Trailer brake control,Not Available,0
+ABS,Standard,0
+Brake assist,Standard,0
+Cornering brake control,Not Available,0
+Electronic brake distribution,Not Available,0
+Hill holder,Not Available,0
+Driver selectable modes,Standard,0
+Engine mapping driver mode,Yes,0
+Stability control driver mode,No,0
+Steering driver mode,No,0
+Suspension driver mode,No,0
+Traction control driver mode,No,0
+Blind spot warning sensor,Standard,0
+Front park assist,Not Available,0
+Rear park assist,Standard Guidance Display,0
+Front parking distance sensors,Optional Camera,0
+Rear parking distance sensors,"Standard HD Rear Vision Camera Camera, Optional Sensor & Camera",0
+Side parking distance sensors,Optional Camera,0
+Corner view camera,Not Available,0
+Surround view camera,Optional HD Surround Vision,0
+Camera display in rear view mirror,Not Available,0
+Trailer assist,Not Available,0
+Electronic traction control,Standard,0
+Fire extinguisher,Not Available,0
+Low tire pressure warning,Standard,0
+Content theft alarm,Standard,0
+Front airbags (driver / passenger),Standard / Standard,0
+Side airbags (front / rear / third row),Standard / Standard / Not Available,0
+Side curtain airbags (front only / front and rear / all three rows),Not Available / Standard / Not Available,0
+Knee airbags (driver / passenger),Standard / Standard,0
+Anti submarining airbags (rear / third row),Not Available / Not Available,0
+Pedestrian airbag,Not Available,0
+Dynamic steering,Not Available,0
+LATCH system,Standard,0
+Collision warning system,Standard Forward Collision Alert,0
+Collision warning system activates at low speed,Front,0
+Collision warning system includes automatic braking,Yes,0
+Pedestrian avoidance system,Standard,0
+Pedestrian audio warning system,Not Available,0
+Lane departure warning,Standard,0
+Lane departure warning activates brakes,No,0
+Lane departure warning activates steering,Yes,0
+Night vision,Not Available,0
+Day Time Running Lights,Standard,0
+Power steering,Standard,0
+Head Up Display,No,0
+Cross-traffic alert (front / rear),Not Available / Standard,0
+Overall crash rating (NHTSA),5,0
+Frontal crash rating (NHTSA),5,0
+Side impact crash rating (NHTSA),5,0
+Rollover crash rating (NHTSA),4,0
+Collision warning system automatic barking,Yes,0
+Collision warning system brakes at low speed,Front,0
+Type (front / rear),Strut / Multi-link,0
+Spring type (front / rear),Coil / Coil,0
+Stabilizer bar (front / rear),Not Available / Not Available,0
+Wheel dependence (front / rear),Independent / Independent,0
+Suspension leveling (front / rear),Not Available / Not Available,0
+Responsive suspension,Not Available,0
+Driver selectable,Not Available,0
+Terrain type selection,Not Available,0
+Transmission Type,Automatic,0
+Transmission Speeds,Variable,0
+Description,Continuously Variable Transmission,0
+Drive,FWD,0
+Locking differential,Not Available,0
+Limited slip differential,Not Available,0
+Descent control system,Not Available,0
+Whole vehicle warranty (months / miles),36 / 36000,0
+Powertrain warranty (months / miles),60 / 60000,0
+Anti-corrosion warranty (months / miles),36 / 36000,0
+Paint warranty (months / miles),36 / 36000,0
+Roadside assistance (months / miles),60 / 60000,0
+3 Years SiriusXM,Available,299
+Active Lifestyle Package (Dealer),Available,825
+Advanced Technology Package,Available,1095
+All Weather Floor Liners (Dealer),Available,250
+All-Weather Floor Mats (Dealer),Available,195
+Bright Chrome Lug Nuts Dealer),Available,125
+Cargo Area Organizer  Collapsible (Dealer),Available,175
+Cargo Mat,Available,50
+Cargo Mat (Dealer),Available,125
+Cargo Tray (Dealer),Available,195
+Carpet Floor Mats (Dealer),Available,205
+Cinnabar Metallic,Available,495
+Cinnabar Metallic,Available,495
+Comfort Package,Available,995
+Copper Ice Metallic,Available,495
+Copper Ice Metallic,Available,495
+Ebony Cloth with Leatherette,Available,0
+Ebony Twilight Metallic,Available,495
+Ebony Twilight Metallic,Available,495
+Engine Block Heater,Available,100
+Engine  Premium Turbo,Available,395
+First Aid Kit,Available,55
+Front and Rear Molded Splash Guards (Dealer),Available,250
+Front License Plate Bracket,Available,40
+Highway Safety Kit,Available,150
+Horizontal Cargo Net (Dealer),Available,95
+Interior Protection Package (Dealer),Available,495
+Keyless Entry Keypad (Dealer),Available,295
+Luggage Rack,Available,150
+Mobile Service Plus,Available,599
+Moonstone Gray Metallic,Available,495
+Moonstone Gray Metallic,Available,495
+Ocean Blue Metallic,Available,495
+Ocean Blue Metallic,Available,495
+Power Liftgate,Available,400
+Road Trip Package (Dealer),Available,850
+Roof Rack Cross Rails (Dealer),Available,695
+Sport Pedal Kit (Dealer),Available,195
+Summit White,Available,0
+Trailering Package (Dealer),Available,725
+Vertical Cargo Net (Dealer),Available,95
+Wheel Locks (Dealer),Available,125
+Whisper Beige Cloth with Leatherette,Available,0
+####,,
+safety,Rating,
+NHTSA Rating Front Driver,5,
+NHTSA Rating Front Passenger,5,
+NHTSA Rating Front Side,5,
+NHTSA Rating Overall,5,
+NHTSA Rating Rear Side,5,
+NHTSA Rating Rollover,4,
