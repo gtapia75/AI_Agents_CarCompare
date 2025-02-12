@@ -37,6 +37,7 @@ This AI Agent Car Compare solution is an innovative tool that leverages artifici
 ```bash
 git clone https://github.com/your-username/ai-agent-car-compare.git
 cd ai-agent-car-compare
+```
 
 2. Install dependencies
 pip install -r requirements.txt
